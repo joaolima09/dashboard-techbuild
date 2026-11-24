@@ -1,0 +1,18 @@
+{
+  "name": "dashboard-techbuild",
+  "version": "1.0.0",
+  "description": "Atividade Webpack - Dashboard TechBuild",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^7.1.5",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.113.0",
+    "webpack-cli": "^7.3.1"
+  }
+}
